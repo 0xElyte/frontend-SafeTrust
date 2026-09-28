@@ -13,7 +13,7 @@ export { default as ContactButton } from './actions/ContactButton';
 export { default as ReportButton } from './actions/ReportButton';
 export { default as FavoriteButton } from './actions/FavoriteButton';
 
-export { default as RoomBookingCard } from './booking/RoomBookingCard';
+export { default as RoomBookingCard } from './RoomBookingCard';
 export { default as MobileBookingCard } from './booking/MobileBookingCard';
 export { default as BookingButton } from './booking/BookingButton';
 export { default as BookingConfirmation } from './booking/BookingConfirmation';
